@@ -23,8 +23,9 @@
 ---
 
 ## DSA Heatmap
-<div align="center"><img src="heatmap.svg" width="100%" /></div>
+<div align="center"><img src="heatmap.svg" width="100%" /></div> 
 
+---
 ---
 
 ## Goals & Targets
